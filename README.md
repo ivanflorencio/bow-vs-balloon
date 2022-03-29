@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Classic Bow Game
+<img width="1699" alt="Screen Shot 2022-03-28 at 10 06 09 PM" src="https://user-images.githubusercontent.com/3957309/160512394-5f6bfd4e-6f89-4bd0-bf46-ea1dc27f203b.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
