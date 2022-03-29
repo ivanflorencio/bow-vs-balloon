@@ -1,0 +1,25 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(35, 116, 55);
+}
+img {
+    width: 200px;
+}
+.game-container {
+    display: flex;
+    height: 100vh;
+}
+.game-container .character-field {
+    position: relative;
+    height: 100vh;
+    width: 150px;
+}
+.game-container .balloon-field {
+    position: relative;
+    height: 100vh;
+    flex-grow: 1;
+}
